@@ -1,2 +1,3 @@
 # Google-calendar-integration
-Used Google Calendar API from Google Developer Console of Google Cloud
+Integrated Google Calendar API after deploying the project on Google Cloud using Google Developer Console.
+Integration is done using Node.js
